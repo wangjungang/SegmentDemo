@@ -1,0 +1,12 @@
+PODS:
+  - LLSegmentBar (0.0.1)
+
+DEPENDENCIES:
+  - LLSegmentBar
+
+SPEC CHECKSUMS:
+  LLSegmentBar: 7ef235c5ed4fe8f14ff4c9b2a6069f839ffe30dc
+
+PODFILE CHECKSUM: 058b1fe4ac9f04ffc906a71296a8bab0b86daee0
+
+COCOAPODS: 1.2.1
